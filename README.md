@@ -29,4 +29,4 @@ Competências do projeto:
 
 ## Autor
 
--   **Siga-me no linkedin:** - [Lucca Tirelli](https://www.linkedin.com/in/lucca-tirelli/)
+-   **Siga-me no linkedin:** [Lucca Tirelli](https://www.linkedin.com/in/lucca-tirelli/)
